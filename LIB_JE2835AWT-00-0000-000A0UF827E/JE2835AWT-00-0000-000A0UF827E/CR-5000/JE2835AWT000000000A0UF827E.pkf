@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "JE2835AWT000000000A0UF827E"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "JE2835AWT000000000A0UF827E")
+        (spec "default")
+    )
+)

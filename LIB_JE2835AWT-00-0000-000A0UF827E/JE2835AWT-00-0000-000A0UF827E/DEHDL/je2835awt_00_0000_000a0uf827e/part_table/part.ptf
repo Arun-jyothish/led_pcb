@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'JE2835AWT_00_0000_000A0UF827E'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Cree, Inc.", "JE2835AWT-00-0000-000A0UF827E" (!) = "", "JE2835AWT000000000A0UF827E", "Other", "941-JE2835W00A0UF827", "https://www.mouser.co.uk/ProductDetail/Cree-Inc/JE2835AWT-00-0000-000A0UF827E/?qs=chTDxNqvsyntKUiicReWOw%3D%3D", "JE2835AWT-00-0000-000A0UF827E", "https://www.arrow.com/en/products/je2835awt-00-0000-000a0uf827e/cree", "CREE - JE2835AWT-00-0000-000A0UF827E - High Brightness LED, J 2835 ?Series, Warm White, 120 ?, 58 lm, 2700 K, 240 mA", "https://www.cree.com/led-components/media/documents/data-sheet-JSeries-2835.pdf", "0.7 mm"
+END_PART
+
+END.

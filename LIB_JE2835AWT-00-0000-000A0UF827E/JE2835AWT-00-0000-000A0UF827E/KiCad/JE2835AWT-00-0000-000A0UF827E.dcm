@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JE2835AWT-00-0000-000A0UF827E
+D CREE - JE2835AWT-00-0000-000A0UF827E - High Brightness LED, J 2835 ?Series, Warm White, 120 ?, 58 lm, 2700 K, 240 mA
+K
+F https://www.cree.com/led-components/media/documents/data-sheet-JSeries-2835.pdf
+$ENDCMP
+#
+#End Doc Library

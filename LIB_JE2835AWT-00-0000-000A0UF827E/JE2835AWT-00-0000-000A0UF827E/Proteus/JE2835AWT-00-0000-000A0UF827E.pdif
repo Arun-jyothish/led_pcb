@@ -1,0 +1,132 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "JE2835AWT-00-0000-000A0UF827E"
+   (description "CREE - JE2835AWT-00-0000-000A0UF827E - High Brightness LED, J 2835 ?Series, Warm White, 120 ?, 58 lm, 2700 K, 240 mA")
+   (family "DIO")
+   (package "JE2835AWT000000000A0UF827E")
+   (attribute "Datasheet Link" "https://www.cree.com/led-components/media/documents/data-sheet-JSeries-2835.pdf")
+   (attribute "Geometry.Height" "0.7mm")
+   (attribute "Manufacturer_Name" "Cree, Inc.")
+   (attribute "Manufacturer_Part_Number" "JE2835AWT-00-0000-000A0UF827E")
+   (attribute "Mouser Part Number" "941-JE2835W00A0UF827")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Cree-Inc/JE2835AWT-00-0000-000A0UF827E/?qs=chTDxNqvsyntKUiicReWOw%3D%3D")
+   (attribute "Arrow Part Number" "JE2835AWT-00-0000-000A0UF827E")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/je2835awt-00-0000-000a0uf827e/cree")
+   (gate
+    (symbol "JE2835AWT-00-0000-000A0UF827E")
+    (pin "CATHODE" 1 PS)
+    (pin "ANODE_1" 2 PS)
+    (pin "ANODE_2" 3 PS)
+   )
+  )
+  (symbol "JE2835AWT-00-0000-000A0UF827E"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "JE2835AWT000000000A0UF827E"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.817 -1.4)
+      (pt 1.683 -1.4)
+      (pt 1.683 1.4)
+      (pt -1.817 1.4)
+      (pt -1.817 -1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.817 1.4)
+      (pt 1.683 1.4)
+      (pt 1.683 1.4)
+      (pt -1.817 1.4)
+      (pt -1.817 1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.817 -1.4)
+      (pt 1.683 -1.4)
+      (pt 1.683 -1.4)
+      (pt -1.817 -1.4)
+      (pt -1.817 -1.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.35 2.4)
+      (pt 2.967 2.4)
+      (pt 2.967 -2.4)
+      (pt -3.35 -2.4)
+      (pt -3.35 2.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.3 0.3)
+      (arc (pt -2.300 0.300) (pt -2.350 0.200) (pt -2.250 0.300) (start 180.0) (sweep 90.0))
+      (pt -2.3 0.2)
+      (arc (pt -2.300 0.200) (pt -2.350 0.200) (pt -2.250 0.300) (start 180.0) (sweep -90.0))
+      (pt -2.3 0.3)
+      (arc (pt -2.300 0.300) (pt -2.350 0.200) (pt -2.250 0.300) (start 180.0) (sweep 90.0))
+      (pt -2.3 0.2))))
+   (leg 1 (pt -0.802 0.000) (padstack 0))
+   (leg 2 (pt 1.173 -0.000) (padstack 2))
+   (leg 3 (pt 1.817 -0.000) (padstack 3))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.800 2.060 0 0 0.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 0.990 1.800 0 0 90.000))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 0.300 0.500 0 0 90.000))
+   )
+   (model "JE2835AWT-00-0000-000A0UF827E.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

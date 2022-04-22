@@ -1,0 +1,9 @@
+Manufacturer=Cree, Inc.
+PartNumber=JE2835AWT-00-0000-000A0UF827E
+PartCategory=LED
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2019-10-28 13:24:28
+Downloaded=2022-04-22 15:03:24
+3D=Y

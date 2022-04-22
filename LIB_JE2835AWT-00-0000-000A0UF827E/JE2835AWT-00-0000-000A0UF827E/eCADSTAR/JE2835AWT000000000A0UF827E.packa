@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "JE2835AWT-00-0000-000A0UF827E"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-28-13:24:28)
+    (mountForm default
+        (footprintRef "JE2835AWT000000000A0UF827E")
+        (spec "System")
+    )
+)

@@ -1,0 +1,18 @@
+.JE2835AWT-00-0000-000A0UF827E :1 ;CREE - JE2835AWT-00-0000-000A0UF827E - High Brightness LED, J 2835 ?Series, Warm White, 120 ?, 58 lm, 2700 K, 240 mA
+JE2835AWT000000000A0UF827E
+*STM LED
+*NGS
+*PLB 1="CATHODE" 2="ANODE_1" 3="ANODE_2"
+*MXP 3
+*DFN JE2835AWT-00-0000-000A0UF827E
+~!Manufacturer_Name (Cree, Inc.)
+~!Manufacturer_Part_Number (JE2835AWT-00-0000-000A0UF827E)
+~!Mouser Part Number (941-JE2835W00A0UF827)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Cree-Inc/JE2835AWT-00-0000-000A0UF827E/?qs=chTDxNqvsyntKUiicReWOw%3D%3D)
+~!Arrow Part Number (JE2835AWT-00-0000-000A0UF827E)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/je2835awt-00-0000-000a0uf827e/cree)
+~!Link Datasheet (https://www.cree.com/led-components/media/documents/data-sheet-JSeries-2835.pdf)
+~!Height (0.7mm)
+~!3D_Model (JE2835AWT-00-0000-000A0UF827E)
+JE2835AWT-00-0000-000A0UF827E
+1.1!U 2.1!U 3.1!U 

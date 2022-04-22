@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_1200323"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-28-13:24:28)
+    (utime 2019-10-29-07:06:38)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "JE2835AWT-00-0000-000A0UF827E")
+)
+
+
+(pinAssign "ECS_1200323"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-28-13:24:28)
+    (utime 2019-10-29-07:06:38)
+    (interface
+        (port "1" (symbPinId 1) (portName "CATHODE") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "ANODE_1") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "ANODE_2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1200323")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "JE2835AWT-00-0000-000A0UF827E")
+)
+
+
+(part "JE2835AWT-00-0000-000A0UF827E"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-28-13:24:28)
+    (utime 2019-10-29-07:06:38)
+    (packageRef "JE2835AWT-00-0000-000A0UF827E")
+    (pinAssignRef "ECS_1200323")
+    (interface
+        (port "1" (symbPinId 1) (portName "CATHODE") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "ANODE_1") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "ANODE_2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "CREE - JE2835AWT-00-0000-000A0UF827E - High Brightness LED, J 2835 ?Series, Warm White, 120 ?, 58 lm, 2700 K, 240 mA")
+    (property "Manufacturer_Name" "Cree, Inc.")
+    (property "Manufacturer_Part_Number" "JE2835AWT-00-0000-000A0UF827E")
+    (property "Mouser_Part_Number" "941-JE2835W00A0UF827")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Cree-Inc/JE2835AWT-00-0000-000A0UF827E/?qs=chTDxNqvsyntKUiicReWOw%3D%3D")
+    (property "Arrow_Part_Number" "JE2835AWT-00-0000-000A0UF827E")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/je2835awt-00-0000-000a0uf827e/cree")
+    (property "Datasheet_Link" "https://www.cree.com/led-components/media/documents/data-sheet-JSeries-2835.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+
