@@ -379,7 +379,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "led_50w rev 3.net",
+      "netlist": "led_50w rev 4.net",
       "specctra_dsn": "led_50w rev 2.dsn",
       "step": "",
       "vrml": ""
