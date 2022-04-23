@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/erk/WorkSpace/kicad/led_pcb/led_50w/led_50w.kicad_sch")
-    (date "Sat Apr 23 11:20:01 2022")
+    (date "Sat Apr 23 11:26:59 2022")
     (tool "Eeschema (6.0.4)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block

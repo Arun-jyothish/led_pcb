@@ -1,0 +1,202 @@
+(pcb "/home/erk/WorkSpace/kicad/led_pcb/led_50w/led_50w rev 2.dsn"
+  (parser
+    (string_quote ")
+    (space_in_quoted_tokens on)
+    (host_cad "KiCad's Pcbnew")
+    (host_version "(6.0.4)")
+  )
+  (resolution um 10)
+  (unit um)
+  (structure
+    (layer F.Cu
+      (type signal)
+      (property
+        (index 0)
+      )
+    )
+    (layer B.Cu
+      (type signal)
+      (property
+        (index 1)
+      )
+    )
+    (boundary
+      (path pcb 0  186548 -142108  66548 -142108  66548 -62108  186548 -62108
+            186548 -142108)
+    )
+    (via "Via[0-1]_800:400_um")
+    (rule
+      (width 250)
+      (clearance 200.1)
+      (clearance 200.1 (type default_smd))
+      (clearance 50 (type smd_smd))
+    )
+  )
+  (placement
+    (component "2835-library:JB2835BWTGH40EA0000N0000001"
+      (place LED24 159927.000000 -114416.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED23 159927.000000 -123364.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED22 175260.000000 -132588.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED21 159927.000000 -73036.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED20 159927.000000 -85540.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED19 143935.000000 -132080.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED17 77895.000000 -83820.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED16 175675.000000 -105976.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED15 143915.000000 -85032.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED1 175675.000000 -73036.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED12 175675.000000 -94996.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED11 111252.000000 -104452.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED10 127273.000000 -85032.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED9 175675.000000 -85852.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED8 175675.000000 -114416.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED7 94497.000000 -113480.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED6 127679.000000 -132080.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED4 127781.000000 -93980.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED3 111139.000000 -73036.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED2 127781.000000 -114416.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED13 77895.000000 -92964.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED49 159927.000000 -105976.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED48 111139.000000 -93980.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED47 95005.000000 -84328.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED46 77895.000000 -113284.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED45 78017.000000 -131296.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED44 94497.000000 -122428.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED43 95005.000000 -73036.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED42 95005.000000 -93472.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED41 143915.000000 -73036.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED40 110915.000000 -113792.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED39 111139.000000 -84524.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED25 175431.000000 -123952.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED37 143915.000000 -94488.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED36 94659.000000 -131572.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED35 111028.000000 -131572.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED34 77968.000000 -73624.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED33 94497.000000 -103944.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED32 159927.000000 -94996.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED31 127781.000000 -104960.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED30 127781.000000 -123364.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED29 77895.000000 -122428.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED28 127273.000000 -73036.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED27 77895.000000 -103632.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED26 160020.000000 -132080.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED38 111252.000000 -122936.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+    )
+    (component "2835-library:JB2835BWTGH40EA0000N0000001::1"
+      (place LED18 143915.000000 -105468.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED14 143915.000000 -114416.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+      (place LED5 143915.000000 -123364.000000 front 0.000000 (PN "JB2835BWT-G-H40EA0000-N0000001"))
+    )
+  )
+  (library
+    (image "2835-library:JB2835BWTGH40EA0000N0000001"
+      (outline (path signal 100  -905 -1400  2595 -1400))
+      (outline (path signal 100  2595 -1400  2595 1400))
+      (outline (path signal 100  2595 1400  -905 1400))
+      (outline (path signal 100  -905 1400  -905 -1400))
+      (outline (path signal 200  -905 -1400  2500 -1400))
+      (outline (path signal 200  2500 -1400  2500 -1400))
+      (outline (path signal 200  2500 -1400  -905 -1400))
+      (outline (path signal 200  -905 -1400  -905 -1400))
+      (outline (path signal 200  -905 1400  2595 1400))
+      (outline (path signal 200  2595 1400  2595 1400))
+      (outline (path signal 200  2595 1400  -905 1400))
+      (outline (path signal 200  -905 1400  -905 1400))
+      (outline (path signal 100  -2100 2400  3790 2400))
+      (outline (path signal 100  3790 2400  3790 -2400))
+      (outline (path signal 100  3790 -2400  -2100 -2400))
+      (outline (path signal 100  -2100 -2400  -2100 2400))
+      (outline (path signal 200  -1800 0  -1800 0))
+      (outline (path signal 200  -1700 0  -1700 0))
+      (outline (path signal 200  -1800 0  -1800 0))
+      (outline (path signal 0  -1750 81.231  -1730.9 95.106  -1669.1 95.106  -1619.1 58.779
+            -1600 0  -1614.86 -65.083  -1656.48 -117.275  -1716.62 -146.239
+            -1783.38 -146.239  -1843.52 -117.275  -1885.14 -65.083  -1900 0
+            -1880.9 58.779  -1830.9 95.106  -1769.1 95.106))
+      (outline (path signal 0  -1843.52 117.275  -1783.38 146.239  -1716.62 146.239  -1656.48 117.275
+            -1614.86 65.083  -1600 0  -1619.1 -58.779  -1669.1 -95.106  -1730.9 -95.106
+            -1750 -81.231  -1769.1 -95.106  -1830.9 -95.106  -1880.9 -58.779
+            -1900 0  -1885.14 65.083))
+      (outline (path signal 0  -1750 81.231  -1730.9 95.106  -1669.1 95.106  -1619.1 58.779
+            -1600 0  -1614.86 -65.083  -1656.48 -117.275  -1716.62 -146.239
+            -1783.38 -146.239  -1843.52 -117.275  -1885.14 -65.083  -1900 0
+            -1880.9 58.779  -1830.9 95.106  -1769.1 95.106))
+      (pin Rect[T]Pad_1800x2200_um (rotate 90) 1 0 0)
+      (pin Rect[T]Pad_1100x1800_um 2 2240 0)
+    )
+    (image "2835-library:JB2835BWTGH40EA0000N0000001::1"
+      (outline (path signal 0  -1750 81.231  -1730.9 95.106  -1669.1 95.106  -1619.1 58.779
+            -1600 0  -1614.86 -65.083  -1656.48 -117.275  -1716.62 -146.239
+            -1783.38 -146.239  -1843.52 -117.275  -1885.14 -65.083  -1900 0
+            -1880.9 58.779  -1830.9 95.106  -1769.1 95.106))
+      (outline (path signal 0  -1843.52 117.275  -1783.38 146.239  -1716.62 146.239  -1656.48 117.275
+            -1614.86 65.083  -1600 0  -1619.1 -58.779  -1669.1 -95.106  -1730.9 -95.106
+            -1750 -81.231  -1769.1 -95.106  -1830.9 -95.106  -1880.9 -58.779
+            -1900 0  -1885.14 65.083))
+      (outline (path signal 0  -1750 81.231  -1730.9 95.106  -1669.1 95.106  -1619.1 58.779
+            -1600 0  -1614.86 -65.083  -1656.48 -117.275  -1716.62 -146.239
+            -1783.38 -146.239  -1843.52 -117.275  -1885.14 -65.083  -1900 0
+            -1880.9 58.779  -1830.9 95.106  -1769.1 95.106))
+      (outline (path signal 200  -1800 0  -1800 0))
+      (outline (path signal 200  -1700 0  -1700 0))
+      (outline (path signal 200  -1800 0  -1800 0))
+      (outline (path signal 100  -2100 -2400  -2100 2400))
+      (outline (path signal 100  3790 -2400  -2100 -2400))
+      (outline (path signal 100  3790 2400  3790 -2400))
+      (outline (path signal 100  -2100 2400  3790 2400))
+      (outline (path signal 200  -905 1400  -905 1400))
+      (outline (path signal 200  2595 1400  -905 1400))
+      (outline (path signal 200  2595 1400  2595 1400))
+      (outline (path signal 200  -905 1400  2595 1400))
+      (outline (path signal 200  -905 -1400  -905 -1400))
+      (outline (path signal 200  2500 -1400  -905 -1400))
+      (outline (path signal 200  2500 -1400  2500 -1400))
+      (outline (path signal 200  -905 -1400  2500 -1400))
+      (outline (path signal 100  -905 1400  -905 -1400))
+      (outline (path signal 100  2595 1400  -905 1400))
+      (outline (path signal 100  2595 -1400  2595 1400))
+      (outline (path signal 100  -905 -1400  2595 -1400))
+      (pin Rect[T]Pad_1100x1800_um 2 2240 0)
+      (pin Rect[T]Pad_1800x2200_um (rotate 90) 1 0 0)
+    )
+    (padstack Rect[T]Pad_1100x1800_um
+      (shape (rect F.Cu -550 -900 550 900))
+      (attach off)
+    )
+    (padstack Rect[T]Pad_1800x2200_um
+      (shape (rect F.Cu -900 -1100 900 1100))
+      (attach off)
+    )
+    (padstack "Via[0-1]_800:400_um"
+      (shape (circle F.Cu 800))
+      (shape (circle B.Cu 800))
+      (attach off)
+    )
+  )
+  (network
+    (net GND
+      (pins LED24-1 LED23-1 LED22-1 LED21-1 LED20-1 LED19-1 LED18-1 LED17-1 LED16-1
+        LED15-1 LED14-1 LED1-1 LED12-1 LED11-1 LED10-1 LED9-1 LED8-1 LED7-1 LED6-1
+        LED5-1 LED4-1 LED3-1 LED2-1 LED13-1 LED49-1 LED48-1 LED47-1 LED46-1 LED45-1
+        LED44-1 LED43-1 LED42-1 LED41-1 LED40-1 LED39-1 LED25-1 LED37-1 LED36-1 LED35-1
+        LED34-1 LED33-1 LED32-1 LED31-1 LED30-1 LED29-1 LED28-1 LED27-1 LED26-1 LED38-1)
+    )
+    (net +24V
+      (pins LED24-2 LED23-2 LED22-2 LED21-2 LED20-2 LED19-2 LED18-2 LED17-2 LED16-2
+        LED15-2 LED14-2 LED1-2 LED12-2 LED11-2 LED10-2 LED9-2 LED8-2 LED7-2 LED6-2
+        LED5-2 LED4-2 LED3-2 LED2-2 LED13-2 LED49-2 LED48-2 LED47-2 LED46-2 LED45-2
+        LED44-2 LED43-2 LED42-2 LED41-2 LED40-2 LED39-2 LED25-2 LED37-2 LED36-2 LED35-2
+        LED34-2 LED33-2 LED32-2 LED31-2 LED30-2 LED29-2 LED28-2 LED27-2 LED26-2 LED38-2)
+    )
+    (class kicad_default
+      (circuit
+        (use_via Via[0-1]_800:400_um)
+      )
+      (rule
+        (width 250)
+        (clearance 200.1)
+      )
+    )
+  )
+  (wiring
+  )
+)

@@ -347,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "led_50w.kicad_pro",
+    "filename": "led50w rev 2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -380,7 +380,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "led_50w rev 2.net",
-      "specctra_dsn": "led_50w rev 2.dsn",
+      "specctra_dsn": "led_50w.dsn",
       "step": "",
       "vrml": ""
     },
