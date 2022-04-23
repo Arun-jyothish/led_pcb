@@ -138,6 +138,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "/home/erk/WorkSpace/kicad/led_pcb/2835-library/LED_2835.STEP"
+      (offset (xyz 1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "2835-library:JB2835BWTGH40EA0000N0000001" (layer "F.Cu")
@@ -195,10 +200,10 @@
       (net 1 "GND") (pintype "passive") (tstamp dfdaa22a-0489-48da-8a56-737e4c4366e1))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 54562a16-6662-4d1b-9b50-45ed0ae36481))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -257,10 +262,10 @@
       (net 1 "GND") (pintype "passive") (tstamp c9dc1467-f8a9-424e-ab40-9eace7cb7fbb))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 504b138d-cda6-48ea-a44b-2c0d0cf874fc))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -319,10 +324,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 9c7af13e-949e-4a55-a6b7-45ef51b4f106))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 6e23d37a-3804-4cb0-9f56-ede150eedda5))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -381,10 +386,10 @@
       (net 1 "GND") (pintype "passive") (tstamp c2d81a3b-9b02-4ddc-9c7b-c0e881678970))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 10a7d7ef-d6be-484c-be36-2908e6c77393))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -443,10 +448,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 0c345fc5-964b-48c0-9452-55507c868edc))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 87bdd00e-f10c-4d37-9a6b-480b5e87ca33))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -505,10 +510,10 @@
       (net 1 "GND") (pintype "passive") (tstamp b8e9717b-c8d9-44dd-9eb5-d37e3b2c2fb5))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 3d774050-1f75-473e-bdf5-d052504e6a25))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -567,10 +572,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 8a0095e3-f64e-4bc6-8d5a-1cdcee192b11))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp d4f9d898-7a83-4186-a9d6-9da79adbdd19))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -629,10 +634,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 6dfa921c-8a4f-4fcf-a0e7-8718b6271ea9))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 46a20b99-b616-4fa4-af79-eecf92b5c191))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -691,10 +696,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 08fa8ff6-09a7-484c-b1d9-0e3b7c49bb26))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 65e58d89-f213-4051-b36b-7b3454867ad5))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -753,10 +758,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 5379d081-922a-4828-9d43-7b2f2572d06c))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 5d9cc826-4756-4365-b769-24e883398d0a))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -815,10 +820,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 8c4cd1a2-9a92-4fba-aa2e-8b86c17dce10))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 76a87642-211c-44f2-a488-190d6dc3728e))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -877,10 +882,10 @@
       (net 1 "GND") (pintype "passive") (tstamp be78c320-66c9-47db-84c6-e07682b2c3ee))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 06691abe-4a61-4d84-ab64-63ace23bf8b5))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -939,10 +944,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 3b450865-b2ef-4d25-9b34-4d42975b5e24))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 7cc510d9-2339-42a7-bb31-eff1142f0636))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1001,10 +1006,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 26fd21bc-b3dd-4d3f-828b-c65aac383c0b))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 5367a494-64b6-4f8c-adca-814c4b88525b))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1063,10 +1068,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 31b8e579-7afa-4dee-9f20-b2fefaae3c16))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 978f967d-6cc0-4f07-b852-e2800feefa07))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1125,10 +1130,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 3f206607-332e-4c96-8963-5302804f476f))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp b20fb198-6b0b-4cab-9ba8-ea9b46e8088f))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1187,10 +1192,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 4cb674e3-7fd0-4bdf-83d4-7b2424e2e5c0))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 58518ef0-9375-45b7-b518-1100f14f6963))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1249,10 +1254,10 @@
       (net 1 "GND") (pintype "passive") (tstamp e234e19f-cd33-4584-947b-bf9feaf6cddd))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 80b5b54b-a1cc-434c-8739-1e133d53601d))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1311,10 +1316,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 3581de8b-daeb-467a-8039-51714599e4ba))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp d98b06b1-d759-4372-889f-6ac21114139f))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1373,10 +1378,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 4be25af8-39f2-4002-9837-911821c1b9cc))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 6a5fe9e5-baaf-40a3-a520-f60ee8a61237))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1435,10 +1440,10 @@
       (net 1 "GND") (pintype "passive") (tstamp d316b729-072f-4d15-a495-cbeb8407aea0))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 1ba3e338-9465-4844-8361-6715d7885c15))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1497,10 +1502,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 1ed7574f-dfd9-48ef-889b-e65459b62f49))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 27b32d30-a0e6-48e4-8f63-c61987047d29))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1559,10 +1564,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 83250ce3-cee5-48b2-8a3e-b1e7887d6a15))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 296b967f-b7a9-453f-856a-7b874fdca3db))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1621,10 +1626,10 @@
       (net 1 "GND") (pintype "passive") (tstamp f89b1d5e-28c8-498c-b199-7acbd8607540))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp ce4b6c19-1441-4e43-8af4-a7f34dfbb538))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1683,10 +1688,10 @@
       (net 1 "GND") (pintype "passive") (tstamp d66c8b0e-b6b3-43ea-8c6d-9724edcc57d6))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 3d19e22b-2666-4e7d-825d-37a04ed07fa1))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1745,10 +1750,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 572f678c-7489-4a0c-81c3-6f024e0707be))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 20a40fd4-4825-456a-b45d-96e8fe1622a5))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1807,10 +1812,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 9e5b0177-ea58-4f76-8b57-ff1c6e52d9df))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp e8cb6cb3-dd2b-4328-8592-132e369ebb71))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1869,10 +1874,10 @@
       (net 1 "GND") (pintype "passive") (tstamp f45c8190-2f27-434c-8fbf-7d8a911faaab))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 19d6a411-8997-491d-aace-09fdbc63404d))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1931,10 +1936,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 7de04273-7eda-4419-ad6c-938bfee9f2d2))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp f42c2843-70f0-463a-bc38-eee11dd73b5f))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -1993,10 +1998,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 9fb9a654-045f-4c58-ba9d-e6e9d641e3ae))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp b4efa293-75b5-42d5-996c-b449774d5ba5))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2055,10 +2060,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 2792ed93-89db-4e51-99ff-281323e776eb))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 4102ae0e-3d75-40cd-957b-0b4db5d3f5ee))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2117,10 +2122,10 @@
       (net 1 "GND") (pintype "passive") (tstamp f82b8be3-e209-4493-8527-8e48e4d9c1ce))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 8b8cbcc8-2fab-4017-82d7-9e2b0dd87d55))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2179,10 +2184,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 85e898d6-983f-4977-9dfa-e5b961e989c1))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 2f58dd1b-258a-4fb6-a155-4e2931ab012c))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2241,10 +2246,10 @@
       (net 1 "GND") (pintype "passive") (tstamp dd07efd4-24c4-483d-a118-ed58a9223c8c))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 5ecea6c7-cbcd-4340-9db8-55b54a886e1e))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2303,10 +2308,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 8ae8bcca-6404-4249-9a1b-d6efa82cff52))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 1a657991-5c9c-41a4-9f2e-22f0c7450b3a))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2365,10 +2370,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 8f29ec2b-5253-4ae2-bf8f-40e83998f739))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp a97391c0-c438-44dc-aec7-4249e6f62568))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2427,10 +2432,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 1a1da3ab-0792-420a-a2dd-c670f9cd52e8))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp d0060422-f68b-4ffa-bca8-6f70dc4f862d))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2489,10 +2494,10 @@
       (net 1 "GND") (pintype "passive") (tstamp e1754158-40dc-4df5-848e-7e0c189ace53))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp d4e5a639-c802-4fd5-bd43-bd9483f1fee3))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 0.5 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2551,10 +2556,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 7f7833f4-976f-4a80-99c4-69f2976ed565))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp ec7073f7-f754-4ee6-a977-3d11d16480f8))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2613,11 +2618,38 @@
       (net 1 "GND") (pintype "passive") (tstamp 55870dc1-a751-4fb1-a7eb-fe844b64659b))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp eed5fd95-a7ce-441e-bbe1-d330431c5e6d))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
+  )
+
+  (footprint "TestPoint:TestPoint_Pad_D3.0mm" (layer "F.Cu")
+    (tedit 5A0F774F) (tstamp e9ef80f6-6011-4ead-beec-4abe232b196e)
+    (at 184.912 77.216)
+    (descr "SMD pad as test Point, diameter 3.0mm")
+    (tags "test point SMD pad")
+    (property "Sheetfile" "led_50w.kicad_sch")
+    (property "Sheetname" "")
+    (path "/7a6c7535-50d8-40a2-b546-4877a3982c75")
+    (attr exclude_from_pos_files)
+    (fp_text reference "GND" (at 0 -2.398) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 6c552fa4-7d25-4ddb-956d-cb3c349d0646)
+    )
+    (fp_text value "TestPoint" (at 0 2.55) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 59a4711b-4050-4578-84cf-4999d9789299)
+    )
+    (fp_text user "${REFERENCE}" (at 0 -2.4) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 5019fc4d-3937-4bd1-920c-9f349e445673)
+    )
+    (fp_circle (center 0 0) (end 0 1.75) (layer "F.SilkS") (width 0.12) (fill none) (tstamp c0437cae-660e-4fa8-98a9-4843b7d81f79))
+    (fp_circle (center 0 0) (end 2 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 6323d25b-8e98-4873-b0bd-0048ae739be9))
+    (pad "1" smd circle (at 0 0) (size 3 3) (layers "F.Cu" "F.Mask")
+      (net 1 "GND") (pinfunction "1") (pintype "passive") (tstamp 74e97ee6-4887-4dd0-bfa8-fe10ba606fa1))
   )
 
   (footprint "2835-library:JB2835BWTGH40EA0000N0000001" (layer "F.Cu")
@@ -2675,10 +2707,10 @@
       (net 1 "GND") (pintype "passive") (tstamp b3dbf4ad-71cb-48f5-9655-41b47deeea78))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 4d7ffc75-3dd8-46f7-86f3-405d41c4571a))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2737,10 +2769,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 35506831-8c22-45ab-9b57-69eb0f9ef003))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp e6b8e749-dce0-4716-821f-058d77eed5ce))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2799,10 +2831,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 8527ef2e-5212-4629-b6f5-b0130ab61dab))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 6c715627-9fe9-4566-9325-aed34f2a0ebd))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2861,10 +2893,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 33b6dbe8-d555-4f35-a63c-27c75fa09ca7))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 74d2d2c1-d0d5-412f-ab06-bb67df0a3900))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2923,10 +2955,10 @@
       (net 1 "GND") (pintype "passive") (tstamp d7fccf28-3bfa-4b51-bf91-5d4755a0686e))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp a0af1aa5-82ff-4825-8836-86496e7db65f))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -2985,11 +3017,38 @@
       (net 1 "GND") (pintype "passive") (tstamp 7c3fa13a-5250-4394-8d82-80430597df04))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 6024ea82-89e7-47fa-a1cd-0f37ee126f02))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
+  )
+
+  (footprint "TestPoint:TestPoint_Pad_D3.0mm" (layer "F.Cu")
+    (tedit 5A0F774F) (tstamp f64f27ad-7b49-4b11-aed0-269c5ea6dd1b)
+    (at 184.404 129.032)
+    (descr "SMD pad as test Point, diameter 3.0mm")
+    (tags "test point SMD pad")
+    (property "Sheetfile" "led_50w.kicad_sch")
+    (property "Sheetname" "")
+    (path "/e6afcdd3-ddae-4a78-909e-bd793b740929")
+    (attr exclude_from_pos_files)
+    (fp_text reference "+VE" (at 0 -2.398) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 3cd14f08-1f9a-4cda-9347-d951becf9058)
+    )
+    (fp_text value "TestPoint" (at 0 2.55) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp d148f92f-9eca-497f-bf11-ff0e05b9aa00)
+    )
+    (fp_text user "${REFERENCE}" (at 0 -2.4) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 6e1f3b0f-4798-4c61-8d1f-55e5e00e7c90)
+    )
+    (fp_circle (center 0 0) (end 0 1.75) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 676a849e-f6aa-41be-acc9-9713ca3ad8c9))
+    (fp_circle (center 0 0) (end 2 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 2cde9c41-a885-43db-858a-d7b8f12892d7))
+    (pad "1" smd circle (at 0 0) (size 3 3) (layers "F.Cu" "F.Mask")
+      (net 2 "+24V") (pinfunction "1") (pintype "passive") (tstamp e017e858-7ce6-4ab7-b2c4-788f24da194d))
   )
 
   (footprint "2835-library:JB2835BWTGH40EA0000N0000001" (layer "F.Cu")
@@ -3047,10 +3106,10 @@
       (net 1 "GND") (pintype "passive") (tstamp 7195a7f5-2a0f-4cae-8649-2cc5cbdffe2b))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp 920101e0-4dde-4453-ba02-4211cb357ea2))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
@@ -3109,24 +3168,27 @@
       (net 1 "GND") (pintype "passive") (tstamp c261f2c7-400a-44c0-9c0a-e7dc7bbb3f90))
     (pad "2" smd rect locked (at 2.24 0) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "+24V") (pintype "passive") (tstamp dbe20cc9-b99f-4e22-ad59-f96e667d1efa))
-    (model "JB2835BWT-G-H40EA0000-N0000001.stp"
-      (offset (xyz 0 0 0))
+    (model "/home/erk/WorkSpace/kicad/led_pcb/LIB_JE2835AWT-00-0000-000A0UF827E/LED_2835.STEP"
+      (offset (xyz 1 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
-  (gr_rect (start 66.548 62.108) (end 186.548 142.108) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp b76342d5-1e15-4862-b1f2-61ba5d5402c4))
+  (gr_rect (start 71.628 62.992) (end 191.628 142.992) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp b76342d5-1e15-4862-b1f2-61ba5d5402c4))
+  (gr_text "49 PCS 2835 LED PANEL" (at 185.42 102.616 90) (layer "F.Cu") (tstamp d4aff8ab-d189-4e12-8d36-8730e38fbce6)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 111.139 84.524) (end 111.139 93.98) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 013e2ea2-2cba-4a6b-aef8-92f7a96a7565))
   (segment (start 77.968 73.624) (end 77.968 68.844) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 025740c3-a644-4dcd-a505-8a3f45351a5a))
   (segment (start 110.915 113.792) (end 110.915 122.599) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 0698b599-bf12-4c7b-9e67-e71f97e49b84))
   (segment (start 94.497 122.428) (end 94.497 131.41) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 0835cb07-9a31-44a4-b893-d33e4be0172f))
   (segment (start 77.895 92.964) (end 77.895 103.632) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 0aeb1d65-5e57-4e0f-93b0-a9cb762ff883))
-  (segment (start 111.252 68.58) (end 127 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 101a6607-1ac1-499c-92ad-7ef1a65e3cfb))
+  (segment (start 111.252 68.58) (end 127 68.58) (width 1.36307) (layer "F.Cu") (net 1) (tstamp 101a6607-1ac1-499c-92ad-7ef1a65e3cfb))
   (segment (start 111.252 122.936) (end 111.252 131.348) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 1023d6c7-faff-4f4b-a4d5-a0ab244944c8))
   (segment (start 127.781 114.416) (end 127.781 123.364) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 12c74b63-d2c9-4bab-95a1-1088b1f3832f))
-  (segment (start 144.78 68.58) (end 159.512 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 17e1bfdd-9ec6-4c8b-9e56-56fe42bd8ce1))
+  (segment (start 144.78 68.58) (end 159.512 68.58) (width 1.36307) (layer "F.Cu") (net 1) (tstamp 17e1bfdd-9ec6-4c8b-9e56-56fe42bd8ce1))
   (segment (start 94.488 68.58) (end 95.005 69.097) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 19fe7b1f-5a54-4c9d-b474-e7909459658b))
   (segment (start 77.895 122.428) (end 77.895 131.174) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 1b5d8856-b5a0-4f7b-9e1d-8c0f7a42137b))
   (segment (start 127.273 85.032) (end 127.273 93.472) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 1b7ef2d7-3e4b-4435-bc89-c6c825d75f10))
@@ -3143,7 +3205,7 @@
   (segment (start 95.005 73.036) (end 95.005 84.328) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 30b0be8c-ccba-4b8e-ae46-c9df7354340a))
   (segment (start 143.915 73.036) (end 143.915 71.07293) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 3124ba90-0579-43cd-b438-c4f57f810290))
   (segment (start 175.675 94.996) (end 175.675 105.976) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 31b1b6d8-2445-42ab-89e9-eddba65b597e))
-  (segment (start 94.488 68.58) (end 111.252 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 377a2a04-f07e-4ede-8767-eeb885700b1b))
+  (segment (start 94.488 68.58) (end 111.252 68.58) (width 1.36307) (layer "F.Cu") (net 1) (tstamp 377a2a04-f07e-4ede-8767-eeb885700b1b))
   (segment (start 143.764 68.58) (end 144.78 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 3dcac4b4-b2a1-4900-b9c5-d75043fca1dc))
   (segment (start 127.273 69.323) (end 127.273 73.036) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 4244bbb5-ef85-4264-a4dd-5bd24fde589b))
   (segment (start 159.927 73.036) (end 159.927 84.421) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 43ba7b0a-1571-4adc-9168-7dd64c75b13f))
@@ -3154,9 +3216,10 @@
   (segment (start 94.497 103.944) (end 94.497 113.48) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 5542ac66-a192-4a6e-b9f1-a8adc84dc5bd))
   (segment (start 175.675 85.852) (end 175.675 94.996) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 5786fcca-7067-4799-83cc-06ae557ddd1a))
   (segment (start 111.139 73.036) (end 111.139 68.693) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 57b4fff3-c0ff-45b7-a521-d1ed483af2d2))
+  (segment (start 181.864 68.58) (end 184.912 71.628) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 588601c1-2200-4263-a080-b0ba1d6db39b))
   (segment (start 159.927 114.416) (end 159.927 123.364) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 590a4ace-48fb-4f4a-888d-cb64d1d49ec8))
   (segment (start 143.915 85.032) (end 143.915 94.488) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 5b209594-fb54-407f-b124-2be0169dad9c))
-  (segment (start 127 68.58) (end 144.78 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 5f78afa1-e33e-494b-aa5f-30b24adabe65))
+  (segment (start 127 68.58) (end 144.78 68.58) (width 1.36307) (layer "F.Cu") (net 1) (tstamp 5f78afa1-e33e-494b-aa5f-30b24adabe65))
   (segment (start 175.431 123.952) (end 175.431 132.417) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 601346dd-773e-4783-b4fa-51ba92db080f))
   (segment (start 143.915 71.07293) (end 143.764 70.92193) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 6118074d-2187-49f7-8bba-5145076ff0ec))
   (segment (start 175.675 123.708) (end 175.431 123.952) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 61433dd0-82ea-4228-a64b-6fa9fee77d7b))
@@ -3169,7 +3232,7 @@
   (segment (start 95.005 69.097) (end 95.005 73.036) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 731a7d70-0693-48b0-90f7-22f4ee1fd587))
   (segment (start 94.497 113.48) (end 94.497 122.428) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 768d68b3-3286-480c-a1f5-01bd55a6686c))
   (segment (start 127.273 93.472) (end 127.781 93.98) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 77ddfb4a-bec3-4f62-8129-0cd32bef34d6))
-  (segment (start 78.232 68.58) (end 94.488 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 8148f06e-3e09-4403-8a6b-099e425a5e1b))
+  (segment (start 78.232 68.58) (end 94.488 68.58) (width 1.36307) (layer "F.Cu") (net 1) (tstamp 8148f06e-3e09-4403-8a6b-099e425a5e1b))
   (segment (start 95.005 93.472) (end 95.005 103.436) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 85c22c96-8aa9-4729-b651-96556c3913e3))
   (segment (start 143.915 114.416) (end 143.915 123.364) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 85dd6acf-d5aa-484e-930f-b3bbabe3e7e1))
   (segment (start 111.139 104.339) (end 111.252 104.452) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 89dbb437-c42b-4f46-897b-1ada7e06dd2e))
@@ -3179,11 +3242,12 @@
   (segment (start 143.764 70.92193) (end 143.764 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp 9bc85d73-d8c9-4e83-97b4-4760c98b953a))
   (segment (start 127.781 123.364) (end 127.781 131.978) (width 1.06307) (layer "F.Cu") (net 1) (tstamp a736a3fc-55b0-43d3-b5dd-596413780f33))
   (segment (start 127.781 93.98) (end 127.781 104.96) (width 1.06307) (layer "F.Cu") (net 1) (tstamp ae7dd71c-ca1d-4baa-8bd4-5f40cd8792b3))
-  (segment (start 159.512 68.58) (end 175.768 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp b6a6433c-f816-4b82-96bf-4aebf518aa2f))
+  (segment (start 159.512 68.58) (end 175.768 68.58) (width 1.36307) (layer "F.Cu") (net 1) (tstamp b6a6433c-f816-4b82-96bf-4aebf518aa2f))
   (segment (start 77.895 113.284) (end 77.895 122.428) (width 1.06307) (layer "F.Cu") (net 1) (tstamp b8bcddd9-0a4c-484f-a63c-bd7c63664557))
   (segment (start 77.968 68.844) (end 78.232 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp bc9f4fc7-269c-4929-9e8b-109880e964fe))
   (segment (start 159.927 105.976) (end 159.927 114.416) (width 1.06307) (layer "F.Cu") (net 1) (tstamp cf45129d-7f9d-4fb5-acb9-fd28bda5e426))
   (segment (start 77.968 83.747) (end 77.895 83.82) (width 1.06307) (layer "F.Cu") (net 1) (tstamp cf7668c8-1dd7-49a3-a226-d121163a7ef6))
+  (segment (start 184.912 71.628) (end 184.912 77.216) (width 1.06307) (layer "F.Cu") (net 1) (tstamp d0cafe1a-6453-4afb-b3f0-b8f3b2aa6956))
   (segment (start 111.252 104.452) (end 111.252 113.455) (width 1.06307) (layer "F.Cu") (net 1) (tstamp d3b9bd70-8de3-46e7-8110-b459fb19192f))
   (segment (start 77.968 73.624) (end 77.968 83.747) (width 1.06307) (layer "F.Cu") (net 1) (tstamp d66b5981-b93e-4c4b-aae5-205ccaea2870))
   (segment (start 159.927 123.364) (end 159.927 131.987) (width 1.06307) (layer "F.Cu") (net 1) (tstamp d6889821-7908-4037-b3cb-9818aff539b6))
@@ -3192,6 +3256,7 @@
   (segment (start 110.915 122.599) (end 111.252 122.936) (width 1.06307) (layer "F.Cu") (net 1) (tstamp db5cde46-8e04-4ee9-9785-af9daeaacc52))
   (segment (start 159.927 94.996) (end 159.927 105.976) (width 1.06307) (layer "F.Cu") (net 1) (tstamp dc494e81-b50b-453c-ba8e-8cfe2ab07aab))
   (segment (start 159.927 69.181) (end 159.927 73.036) (width 1.06307) (layer "F.Cu") (net 1) (tstamp dd5f8ac9-3fd5-4196-8453-2ca50333c798))
+  (segment (start 175.768 68.58) (end 181.864 68.58) (width 1.06307) (layer "F.Cu") (net 1) (tstamp e36ba406-829d-480f-ae19-98409d9eb14d))
   (segment (start 160.02 69.088) (end 159.927 69.181) (width 1.06307) (layer "F.Cu") (net 1) (tstamp e4dee6ff-fb14-46ed-9a7d-3293759905ba))
   (segment (start 159.927 131.987) (end 160.02 132.08) (width 1.06307) (layer "F.Cu") (net 1) (tstamp ee22e0d1-e5f6-4931-a3e7-e07dd2a557b7))
   (segment (start 127.781 131.978) (end 127.679 132.08) (width 1.06307) (layer "F.Cu") (net 1) (tstamp ee85443c-fdcd-49d3-be20-47e484cb59a1))
@@ -3205,9 +3270,10 @@
   (segment (start 96.737 103.944) (end 96.737 113.48) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 121d3f26-18c7-44c5-bc5d-d20cc3d198cf))
   (segment (start 113.155 122.599) (end 113.492 122.936) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 1a2566b0-fca6-4432-9195-ac3a5228d6e0))
   (segment (start 146.155 114.416) (end 146.155 123.364) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 1c05bd26-ff0c-47de-8990-68f22c08c1b0))
-  (segment (start 97.028 138.176) (end 112.776 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 1da93f1e-29ae-42c4-bcbe-d09dba2bb8cc))
+  (segment (start 97.028 138.176) (end 112.776 138.176) (width 1.36307) (layer "F.Cu") (net 2) (tstamp 1da93f1e-29ae-42c4-bcbe-d09dba2bb8cc))
   (segment (start 129.919 132.08) (end 129.919 137.797) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 2cc9a15a-8e80-410e-81a5-82815b023e5b))
   (segment (start 80.208 83.747) (end 80.135 83.82) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 30f25da0-b9ed-41a8-9b32-074603e97d46))
+  (segment (start 177.8 138.176) (end 181.356 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 312982b1-f76f-4f4f-ad97-50c9445790eb))
   (segment (start 80.135 122.428) (end 80.135 131.174) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 349c5424-554a-4af3-a494-98582698a2e7))
   (segment (start 80.257 137.661) (end 80.772 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 3ec6a5eb-5ff2-435c-8d49-de5353e74817))
   (segment (start 177.915 123.708) (end 177.671 123.952) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 420d787d-b9f6-4e0e-91ad-db059dfb8022))
@@ -3216,7 +3282,7 @@
   (segment (start 130.021 104.96) (end 130.021 115.289) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 4b5893ab-254a-408e-a775-ee4775099eb0))
   (segment (start 130.021 123.364) (end 130.021 131.978) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 538f8222-ee7f-4679-a36d-3784d7237295))
   (segment (start 146.155 73.036) (end 146.155 85.032) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 54c4e033-5aae-4f2f-a77b-fd85e3518acc))
-  (segment (start 112.776 138.176) (end 129.54 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 557ef652-1c6c-4387-94e5-a90330c8bf2a))
+  (segment (start 112.776 138.176) (end 129.54 138.176) (width 1.36307) (layer "F.Cu") (net 2) (tstamp 557ef652-1c6c-4387-94e5-a90330c8bf2a))
   (segment (start 177.8 138.176) (end 177.5 137.876) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 56c91042-2dbf-4de8-b4bc-ec9fe4698f2a))
   (segment (start 97.245 93.472) (end 97.245 103.436) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 5806c078-0d32-4b71-9bbc-3ddaa984d634))
   (segment (start 80.135 103.632) (end 80.135 113.284) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 5ab13786-7d89-48b3-bcaf-08c32a562ade))
@@ -3230,6 +3296,7 @@
   (segment (start 80.208 73.624) (end 80.208 83.747) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 62a42783-731d-4a7f-aa4a-a1c6c4b63060))
   (segment (start 146.175 132.08) (end 146.175 138.047) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 67d8ad43-8706-4f7d-a486-aab8fe8938a8))
   (segment (start 130.048 115.316) (end 130.021 115.343) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 6f4504ae-7cbf-43bf-9654-4de19f13615a))
+  (segment (start 184.404 135.128) (end 184.404 129.032) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 6f50bda6-dc77-4a82-a8e9-66bd817f9834))
   (segment (start 162.167 73.036) (end 162.167 85.54) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 73892286-6705-464f-97d3-7ab758056bd4))
   (segment (start 96.737 122.428) (end 96.737 131.41) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 73927204-67c4-4eb2-b999-3233f44745e3))
   (segment (start 96.737 131.41) (end 96.899 131.572) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 788195b4-dae2-42c3-9a9a-da39dd0ed5e7))
@@ -3237,7 +3304,7 @@
   (segment (start 130.021 93.98) (end 130.021 104.96) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 823de2ab-090f-4bab-b63f-b82d0c8f7fd6))
   (segment (start 129.513 85.032) (end 130.021 85.54) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 826f9e8a-32ca-488a-9c0f-ba968f6909c1))
   (segment (start 113.268 131.572) (end 113.268 137.684) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 82a136d8-6c7b-4689-bb30-d476f4678c1a))
-  (segment (start 80.772 138.176) (end 97.028 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 8513a519-80ec-4cf3-a63a-9269285f1eb7))
+  (segment (start 80.772 138.176) (end 97.028 138.176) (width 1.36307) (layer "F.Cu") (net 2) (tstamp 8513a519-80ec-4cf3-a63a-9269285f1eb7))
   (segment (start 146.155 94.488) (end 146.155 105.468) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 8618170f-ef1a-417f-9f2a-539c35ffbacd))
   (segment (start 177.915 73.036) (end 177.915 85.852) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 8c494fa1-4079-4d55-b329-2ad9e636de09))
   (segment (start 80.135 92.964) (end 80.135 103.632) (width 1.06307) (layer "F.Cu") (net 2) (tstamp 8de9f6c1-6e94-49ae-934a-2c44e0f6eba3))
@@ -3256,6 +3323,7 @@
   (segment (start 97.245 73.036) (end 97.245 84.328) (width 1.06307) (layer "F.Cu") (net 2) (tstamp b5653d2a-000d-4bfd-a520-6045e95b2f1d))
   (segment (start 162.167 85.54) (end 162.167 94.996) (width 1.06307) (layer "F.Cu") (net 2) (tstamp b9ba71ae-a537-4491-91b7-492ea8debfeb))
   (segment (start 146.155 123.364) (end 146.155 132.06) (width 1.06307) (layer "F.Cu") (net 2) (tstamp bb272167-1d38-48e9-b2df-fe4b998586cf))
+  (segment (start 181.356 138.176) (end 184.404 135.128) (width 1.06307) (layer "F.Cu") (net 2) (tstamp bea2caf5-6eb7-4063-9f1a-e044fb1991c6))
   (segment (start 177.915 94.996) (end 177.915 105.976) (width 1.06307) (layer "F.Cu") (net 2) (tstamp c26b5e1b-cc90-4133-9352-3657147f8158))
   (segment (start 97.245 84.328) (end 97.245 93.472) (width 1.06307) (layer "F.Cu") (net 2) (tstamp c4aab532-438e-48c5-96a3-46d009f65785))
   (segment (start 162.167 94.996) (end 162.167 105.976) (width 1.06307) (layer "F.Cu") (net 2) (tstamp c5dc733b-2887-40a7-8731-0818d54e9716))
@@ -3268,11 +3336,11 @@
   (segment (start 130.021 85.54) (end 130.021 93.98) (width 1.06307) (layer "F.Cu") (net 2) (tstamp d89731e1-6e97-4507-b9f9-b61fcbd186f2))
   (segment (start 162.26 132.08) (end 162.26 137.876) (width 1.06307) (layer "F.Cu") (net 2) (tstamp da3a2d0f-320f-40b8-85fd-95504879c4f4))
   (segment (start 113.492 131.348) (end 113.268 131.572) (width 1.06307) (layer "F.Cu") (net 2) (tstamp dc46f1b0-8d69-4e84-9c55-86081c1e9f37))
-  (segment (start 146.304 138.176) (end 162.56 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp de202d63-9947-4b8c-8cb3-ba5ba08df6e7))
+  (segment (start 146.304 138.176) (end 162.56 138.176) (width 1.36307) (layer "F.Cu") (net 2) (tstamp de202d63-9947-4b8c-8cb3-ba5ba08df6e7))
   (segment (start 146.155 85.032) (end 146.155 94.488) (width 1.06307) (layer "F.Cu") (net 2) (tstamp ded94ac5-cfdf-4d64-abed-df47b272099a))
   (segment (start 162.26 137.876) (end 162.56 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp efd41b30-5e08-4d63-949a-56b947426fba))
-  (segment (start 129.54 138.176) (end 146.304 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp f09e6bd6-e58f-4d64-82dd-4b88f9e4a052))
-  (segment (start 162.56 138.176) (end 177.8 138.176) (width 1.06307) (layer "F.Cu") (net 2) (tstamp f1d4d018-ed17-42b1-8a1b-e072f6c56123))
+  (segment (start 129.54 138.176) (end 146.304 138.176) (width 1.36307) (layer "F.Cu") (net 2) (tstamp f09e6bd6-e58f-4d64-82dd-4b88f9e4a052))
+  (segment (start 162.56 138.176) (end 177.8 138.176) (width 1.36307) (layer "F.Cu") (net 2) (tstamp f1d4d018-ed17-42b1-8a1b-e072f6c56123))
   (segment (start 113.379 104.339) (end 113.492 104.452) (width 1.06307) (layer "F.Cu") (net 2) (tstamp f46d0dd8-a176-494d-ac39-7fce20a26781))
   (segment (start 146.155 132.06) (end 146.175 132.08) (width 1.06307) (layer "F.Cu") (net 2) (tstamp f8a243e9-b2ef-408a-8f8c-130620c3fe5b))
   (segment (start 97.245 103.436) (end 96.737 103.944) (width 1.06307) (layer "F.Cu") (net 2) (tstamp fa96c103-a249-4d74-a8f7-f53b2f60fbfe))
